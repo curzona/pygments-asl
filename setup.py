@@ -27,7 +27,7 @@ setup(name='pygments-asl',
           'pygments',
       ],
       tests_require=[
-          'unittest',
+          'nose',
       ],
       entry_points={
           'pygments.lexers': 'openssl=asl:AslLexer',
