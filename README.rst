@@ -1,6 +1,10 @@
 ================
 pygments-asl
 ================
+
+.. image:: https://api.travis-ci.org/curzona/pygments-asl.png
+   :target: https://travis-ci.org/curzona/pygments-asl
+   
 ------------------------------------------------
 A Pygments lexer for ACPI source language (ASL)
 ------------------------------------------------
