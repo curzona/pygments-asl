@@ -3,9 +3,6 @@
 from pygments import highlight
 from pygments.formatters import HtmlFormatter
 
-import os
-print os.getcwd()
-
 from asl import AslLexer
 
 sample = """
