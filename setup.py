@@ -1,9 +1,7 @@
 from setuptools import setup, find_packages
 
-version = '1.0'
-
 setup(name='pygments-asl',
-      version=version,
+      version='1.0',
       description='Pygments lexer for ACPI source language (ASL)',
       long_description=open('README.rst').read() + '\n' +
                        open('CHANGES.rst').read(),
